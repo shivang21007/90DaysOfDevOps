@@ -15,3 +15,9 @@ also tried the full dns name and resolve the ip thorugh dns name and got same re
 -----
 
 ## Task: 4
+Created a NodePort and expose its svc and curl on nodes Internal Ip on exposed port :30080 and got the result 
+![nodeport-ip-1](nodeport-ip-1.png)
+-----
+![nodeport-ip-2](nodeport-ip-2.png)
+-----
+
